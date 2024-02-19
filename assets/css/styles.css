@@ -25,14 +25,27 @@ body {
 
 /* Header */
 header {
-    background-color: purple;
+    background-color: black;
+    padding: 0.5rem 1rem;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+header a {
+    text-decoration: none;
+    color: #dcd7d7;
 }
 
 h1 {
     font-family: 'Orbitron', sans-serif;
     color: #dcd7d7;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 2px;  
 }
 
 /* Main Content */
