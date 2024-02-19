@@ -14,4 +14,24 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    /* Generic project styles */
+    color: #fff;
+    background-color: #3a3a3a;
+}
+
+/* Header */
+header {
+    background-color: purple;
+}
+
+/* Main Content */
+main {
+    background-color: yellow;
+    /* Make main element take up any surplus space to push footer down */
+    flex: 1 0 auto;
+}
+
+/* Footer */
+footer {
+    background-color: green;
 }
