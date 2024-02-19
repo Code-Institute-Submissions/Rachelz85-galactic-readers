@@ -28,6 +28,13 @@ header {
     background-color: purple;
 }
 
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    color: #dcd7d7;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
 /* Main Content */
 main {
     /* Make main element take up any surplus space to push footer down */
