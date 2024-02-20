@@ -118,22 +118,24 @@ nav {
 .about-us-text {
     text-align: center;
     color: #dcd7d7;
-    max-width: 90%;
+    max-width: 80%;
     
 }
 
 .about-us-text h2 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     margin-bottom: 25px;
     margin-top: 35px;
     
 }
 
 .about-us-text h3 {
-    font-size: 1.3rem;
-    margin: 0 auto;
-    
-    
+    font-size: 1.2rem;
+    margin: 0 auto; 
+}
+
+#readers-img {
+    max-width: 100%;
 }
 
 /* Footer */
