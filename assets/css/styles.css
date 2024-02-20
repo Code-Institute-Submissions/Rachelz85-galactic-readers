@@ -23,6 +23,13 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+h1,h2,h3 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #dcd7d7;
+}
+
 /* Header */
 header {
     background-color: black;
@@ -93,9 +100,38 @@ nav {
 }
 
 /* Main Content */
-main {
-    /* Make main element take up any surplus space to push footer down */
-    flex: 1 0 auto;
+
+/* About Us Section */
+.about-us {
+    padding: 100px 0;
+}
+
+.about-us .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.about-us-text {
+    text-align: center;
+    color: #dcd7d7;
+    max-width: 95%;
+    
+}
+
+.about-us-text h2 {
+    font-size: 3rem;
+    margin-bottom: 25px;
+    margin-top: 35px;
+    
+}
+
+.about-us-text h3 {
+    font-size: 1.3rem;
+    margin: 0 auto;
+    
+    
 }
 
 /* Footer */
