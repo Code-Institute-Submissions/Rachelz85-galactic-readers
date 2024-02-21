@@ -141,5 +141,21 @@ nav {
 /* Footer */
 footer {
     background-color: black;
-    text-align: center;
 }
+
+.social-links  {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+
+.social-links i {
+    color: #dcd7d7;
+    font-size: 160%;
+    padding: 5%;
+}
+
+
