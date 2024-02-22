@@ -45,16 +45,20 @@ header {
     align-items: baseline;
 }
 
+header h1 {
+    font-family: 'Orbitron', sans-serif;
+}
+
 header a {
     text-decoration: none;
     color: #dcd7d7;
 }
 
-h1 {
-    font-family: 'Orbitron', sans-serif;
-    color: #dcd7d7;
-    text-transform: uppercase;
-    letter-spacing: 2px;  
+
+
+
+.hidden-heading {
+    display: none;
 }
 
 #menu {
@@ -96,9 +100,9 @@ nav {
     display: none;
 }
 
-#nav-toggle-label {
-    font-size: 2rem;
+label i {
     color: #dcd7d7;
+    font-size: 2rem;
 }
 
 /* Main Content */
