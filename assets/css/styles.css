@@ -17,6 +17,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background: url(../images/space-background.jpg);
     /* Generic project styles */
     color: #fff;
     background-color: #3a3a3a;
@@ -229,5 +230,9 @@ footer {
     font-size: 160%;
     padding: 5%;
 }
+
+
+
+
 
 
