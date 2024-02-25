@@ -261,6 +261,7 @@ footer {
     .recommended-books .book-grid {
         grid-template-columns: repeat(4, 1fr);
     }
+    
 }
 
 

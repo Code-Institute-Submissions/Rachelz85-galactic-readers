@@ -134,7 +134,7 @@
         </div>
       </section>
       <!-- Upcoming Events Section -->
-      <section class="upcoming-events" id="events">
+      <section class="upcoming-events">
         <div class="container">
           <h2>Upcoming Events</h2>
           <div class="event-card">
@@ -157,7 +157,32 @@
           </div>
         </div>
       </section>
-
+      <!-- Sign Up Section -->
+      <section class="sign-up">
+        <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+          <h2>Sign up to our Newsletter</h2>
+          <label for="full-name">Full Name</label>
+          <input type="text" name="full-name" id="full-name" class="text-input" required>
+          <br/>
+          <label for="email-address">Email Address</label>
+          <input type="email" name="email-address" id="email-address" class="text-input" required>
+          <br />
+          <div class="radio-wrapper">
+            <input type="radio" id="events" name="newsletter-preference" value="events">
+            <label for="events">Events</label>
+          </div>
+          <div class="radio-wrapper">
+            <input type="radio" id="news" name="newsletter-preference" value="news">
+            <label for="news">News</label>
+          </div>
+          <div class="radio-wrapper">
+            <input type="radio" id="both" name="newsletter-preference" value="both">
+            <label for="both">Both</label>
+          </div>
+          <br />
+          <button type="submit" class="submit-button">Sign Me Up</button>
+        </form>
+        </section>
     </main>
 
     <!-- Footer -->
