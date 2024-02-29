@@ -254,6 +254,22 @@ label i {
     padding-right: 20px;
 }
 
+#signup-form textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#signup-form textarea::placeholder {
+    color: #999; 
+    font-style: italic; 
+}
+
 #signup-form button {
     margin-top: 15px;
     display: block;
@@ -321,6 +337,21 @@ footer {
     
     .recommended-books .book-grid {
         grid-template-columns: repeat(4, 1fr);
+    }
+
+    .events-form-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .upcoming-events   {
+       flex-basis: calc(50% - 20px);
+       text-align: center;
+    }
+
+    .sign-up {
+        flex-basis: calc(50% - 20px); 
     }
     
 }
