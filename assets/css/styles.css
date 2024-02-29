@@ -35,7 +35,7 @@ h1,h2,h3 {
 
 /* Header */
 header {
-    background-color: black;
+    background-color: #3a3a3a;
     padding: 0.5rem 1rem;
     position: fixed;
     width: 100%;
@@ -292,7 +292,7 @@ label i {
 
 /* Footer */
 footer {
-    background-color: black;
+    background-color: #3a3a3a;
 }
 
 .social-links  {
