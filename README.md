@@ -25,14 +25,27 @@ The navigation bar is prominently displayed across all pages, offering users eas
 ![Navbar Screenshot](assets/images/navbar.png)
 ![Toggle Navbar Screenshot](assets/images/toggle.png)
 
+
 ### About Us Section:
 The About Us section provides a concise overview of the Galactic Readers Book Club, inviting users to discover the universe of science fiction literature. It serves as a welcoming introduction to the platform, appealing to individuals interested in joining a community of like-minded readers. By highlighting the club's mission and offerings, this section aims to attract potential members and foster a sense of belonging within the sci-fi literary community.
+
+![About Us Screenshot](assets/images/about.png)
+
 
 ### Recommended Books Section:
 Featuring a curated selection of recommended sci-fi books, this section offers valuable insights into must-read titles within the genre. Whether users are searching for classic masterpieces or contemporary bestsellers, this feature provides a diverse range of literary recommendations to satisfy every reader's preferences. By showcasing compelling book summaries and author details, the Recommended Books section aims to inspire exploration and ignite enthusiasm for science fiction literature among users.
 
+![Recommended Screenshot](assets/images/recommended.png)
+
+
 ### Upcoming Events Section:
 The Upcoming Events section keeps users informed about upcoming book discussions, author meet-and-greets, and book launches hosted by the Galactic Readers Book Club. This feature appeals to individuals seeking opportunities to engage with fellow sci-fi enthusiasts and participate in enriching literary events. By providing event details and dates, this section encourages active participation and fosters a sense of community among users, enhancing their overall experience with the platform.
 
+![events Screenshot](assets/images/events.png)
+
+
 ### Sign Up Form:
 The Sign Up form allows users to subscribe to the Galactic Readers Book Club's newsletter, enabling them to stay updated on the latest news, events, and book recommendations. It caters to individuals interested in receiving regular updates and exclusive content from the club, serving as a gateway to deeper engagement with the sci-fi literary community. By offering a simple and convenient registration process, this feature encourages user involvement and strengthens the club's connections with its audience.
+
+![Form Screenshot](assets/images/form.png)
+
