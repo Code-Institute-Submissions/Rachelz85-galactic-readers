@@ -3,7 +3,6 @@
 
 
 
-
  [Live Website:](https://rachelz85.github.io/galactic-readers/)
 
 
@@ -14,6 +13,8 @@ The Galactic Readers Book Club is tailored for avid readers seeking an interacti
 Join us as we embark on a journey through the cosmos, unraveling the mysteries of distant galaxies, encountering alien civilizations, and delving into the depths of futuristic technologies. Whether you're interested in classics like "2001: A Space Odyssey" by Arthur C. Clarke or newer releases like "Project Hail Mary" by Andy Weir, there's a place for you at the Galactic Readers Book Club.
 
 With a user-friendly interface and a diverse range of features, our platform strives to foster a sense of community among science fiction readers, providing a space where ideas can be shared, friendships can be formed, and imaginations can soar. Whether you're looking for your next great read or eager to connect with fellow enthusiasts, the Galactic Readers Book Club is here to enrich your sci-fi experience. Join us and embark on an unforgettable literary voyage through the cosmos!
+
+![Alt text](assets/images/responsive.png "Responsive image")
 
 
 ## Features
