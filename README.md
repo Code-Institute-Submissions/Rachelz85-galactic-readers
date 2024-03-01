@@ -3,7 +3,7 @@
 
 
 
- [Live Website:](https://rachelz85.github.io/galactic-readers/)
+ [Live Website](https://rachelz85.github.io/galactic-readers/)
 
 
  Welcome to the Galactic Readers Book Club, an online platform designed for science fiction enthusiasts based in London, England. Our project aims to create a vibrant community where individuals passionate about science fiction literature can come together to explore the depths of the universe through captivating books.
@@ -14,13 +14,16 @@ Join us as we embark on a journey through the cosmos, unraveling the mysteries o
 
 With a user-friendly interface and a diverse range of features, our platform strives to foster a sense of community among science fiction readers, providing a space where ideas can be shared, friendships can be formed, and imaginations can soar. Whether you're looking for your next great read or eager to connect with fellow enthusiasts, the Galactic Readers Book Club is here to enrich your sci-fi experience. Join us and embark on an unforgettable literary voyage through the cosmos!
 
-![Alt text](assets/images/responsive.png "Responsive image")
+![Am I Responsive Screenshot](assets/images/responsive.png)
 
 
 ## Features
 
 ### Navigation Bar:
 The navigation bar is prominently displayed across all pages, offering users easy access to key sections such as Home, About, Recommended Books, Upcoming Events, and Sign Up to our Newsletter. It facilitates smooth navigation, ensuring users can seamlessly explore the Galactic Readers Book Club's offerings, catering to both seasoned sci-fi enthusiasts and newcomers alike. This feature streamlines user interaction, enhancing accessibility and engagement with the website's content.
+
+![Navbar Screenshot](assets/images/navbar.png)
+![Toggle Navbar Screenshot](assets/images/toggle.png)
 
 ### About Us Section:
 The About Us section provides a concise overview of the Galactic Readers Book Club, inviting users to discover the universe of science fiction literature. It serves as a welcoming introduction to the platform, appealing to individuals interested in joining a community of like-minded readers. By highlighting the club's mission and offerings, this section aims to attract potential members and foster a sense of belonging within the sci-fi literary community.
