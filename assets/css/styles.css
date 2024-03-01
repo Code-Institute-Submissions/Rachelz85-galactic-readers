@@ -349,6 +349,10 @@ footer {
         grid-template-columns: repeat(4, 1fr);
     }
 
+    .recommended-books h2 {
+        font-size: 180%;
+    }
+
     .events-form-container {
         display: flex;
         flex-wrap: wrap;
