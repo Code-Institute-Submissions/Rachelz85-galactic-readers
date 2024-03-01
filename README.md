@@ -1,39 +1,34 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Galactic Readers Sci-Fi Book Club
 
-Welcome,
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+ [Live Website:](https://rachelz85.github.io/galactic-readers/)
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+ Welcome to the Galactic Readers Book Club, an online platform designed for science fiction enthusiasts based in London, England. Our project aims to create a vibrant community where individuals passionate about science fiction literature can come together to explore the depths of the universe through captivating books.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+The Galactic Readers Book Club is tailored for avid readers seeking an interactive and engaging to discuss their favorite science fiction novels, attend author events, and participate in lively discussions. Whether you're a seasoned sci-fi aficionado or just dipping your toes into the genre, our platform offers something for everyone.
 
-`http_server`
+Join us as we embark on a journey through the cosmos, unraveling the mysteries of distant galaxies, encountering alien civilizations, and delving into the depths of futuristic technologies. Whether you're interested in classics like "2001: A Space Odyssey" by Arthur C. Clarke or newer releases like "Project Hail Mary" by Andy Weir, there's a place for you at the Galactic Readers Book Club.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+With a user-friendly interface and a diverse range of features, our platform strives to foster a sense of community among science fiction readers, providing a space where ideas can be shared, friendships can be formed, and imaginations can soar. Whether you're looking for your next great read or eager to connect with fellow enthusiasts, the Galactic Readers Book Club is here to enrich your sci-fi experience. Join us and embark on an unforgettable literary voyage through the cosmos!
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Features
 
-To log into the Heroku toolbelt CLI:
+### Navigation Bar:
+The navigation bar is prominently displayed across all pages, offering users easy access to key sections such as Home, About, Recommended Books, Upcoming Events, and Sign Up to our Newsletter. It facilitates smooth navigation, ensuring users can seamlessly explore the Galactic Readers Book Club's offerings, catering to both seasoned sci-fi enthusiasts and newcomers alike. This feature streamlines user interaction, enhancing accessibility and engagement with the website's content.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### About Us Section:
+The About Us section provides a concise overview of the Galactic Readers Book Club, inviting users to discover the universe of science fiction literature. It serves as a welcoming introduction to the platform, appealing to individuals interested in joining a community of like-minded readers. By highlighting the club's mission and offerings, this section aims to attract potential members and foster a sense of belonging within the sci-fi literary community.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### Recommended Books Section:
+Featuring a curated selection of recommended sci-fi books, this section offers valuable insights into must-read titles within the genre. Whether users are searching for classic masterpieces or contemporary bestsellers, this feature provides a diverse range of literary recommendations to satisfy every reader's preferences. By showcasing compelling book summaries and author details, the Recommended Books section aims to inspire exploration and ignite enthusiasm for science fiction literature among users.
 
----
+### Upcoming Events Section:
+The Upcoming Events section keeps users informed about upcoming book discussions, author meet-and-greets, and book launches hosted by the Galactic Readers Book Club. This feature appeals to individuals seeking opportunities to engage with fellow sci-fi enthusiasts and participate in enriching literary events. By providing event details and dates, this section encourages active participation and fosters a sense of community among users, enhancing their overall experience with the platform.
 
-Happy coding!
+### Sign Up Form:
+The Sign Up form allows users to subscribe to the Galactic Readers Book Club's newsletter, enabling them to stay updated on the latest news, events, and book recommendations. It caters to individuals interested in receiving regular updates and exclusive content from the club, serving as a gateway to deeper engagement with the sci-fi literary community. By offering a simple and convenient registration process, this feature encourages user involvement and strengthens the club's connections with its audience.
