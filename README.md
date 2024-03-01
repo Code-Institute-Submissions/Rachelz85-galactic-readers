@@ -49,3 +49,10 @@ The Sign Up form allows users to subscribe to the Galactic Readers Book Club's n
 
 ![Form Screenshot](assets/images/form.png)
 
+
+## Testing
+
+### Validator Testing
+
+- HTML: Passed validation without errors when tested with the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frachelz85.github.io%2Fgalactic-readers%2F)
+
