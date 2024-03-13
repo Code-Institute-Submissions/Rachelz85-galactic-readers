@@ -62,10 +62,6 @@ The Sign Up form allows users to subscribe to the Galactic Readers Book Club's n
 ![Jigsaw Validator Screenshot](assets/images/jigsaw.png)
 
 
-### Bugs and Issues
-During testing, no significant bugs or issues were encountered that impeded the functionality or usability of the website. However, minor adjustments were made to optimize the layout and styling for improved user experience across different devices.
-
-
 ### Browser and Screen Size Compatibility
 Tested the website on multiple browsers including Google Chrome, Mozilla Firefox, and Safari to ensure consistent performance and appearance.
 Checked responsiveness on different screen sizes ranging from desktop monitors to mobile devices, ensuring that the website adapts seamlessly to varying screen resolutions.
@@ -92,7 +88,8 @@ Checked responsiveness on different screen sizes ranging from desktop monitors t
 | Tablet Viewport | Site layout should adjust to fit tablet screens without horizontal scrolling | Resized browser to tablet size | Layout adjusted properly, no horizontal scrolling required | Pass |
 | Desktop Viewport | Site should fully utilize desktop space, enhancing readability and functionality | Viewed on a desktop monitor | Site utilized desktop space effectively, enhancing user experience | Pass |
 
-
+### Bugs and Issues
+During testing, no significant bugs or issues were encountered that impeded the functionality or usability of the website. However, minor adjustments were made to optimize the layout and styling for improved user experience across different devices.
 
 ## Deployment
 
