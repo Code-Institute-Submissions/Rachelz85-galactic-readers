@@ -163,7 +163,7 @@ label i {
 }
 
 .book-card {
-    background: rgba(98, 119, 137, 0.6);
+    background: rgba(26, 34, 41, 0.7);
     color: #dcd7d7;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -202,7 +202,7 @@ label i {
 }
 
 .event-card {
-    background: rgba(98, 119, 137, 0.6);
+    background: rgba(26, 34, 41, 0.7);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -223,7 +223,7 @@ label i {
 #signup-form {
     max-width: 600px;
     margin: 0 auto;
-    background: rgba(98, 119, 137, 0.6);
+    background: rgba(26, 34, 41, 0.7);
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
