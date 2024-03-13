@@ -70,6 +70,29 @@ During testing, no significant bugs or issues were encountered that impeded the 
 Tested the website on multiple browsers including Google Chrome, Mozilla Firefox, and Safari to ensure consistent performance and appearance.
 Checked responsiveness on different screen sizes ranging from desktop monitors to mobile devices, ensuring that the website adapts seamlessly to varying screen resolutions.
 
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+|---------|------------------|-------------------|--------|-----------|
+| **Header Navigation** |
+| Home Link | When clicked, the user should be redirected to the top of the homepage | Clicked Home Link | Redirected to the top of the homepage | Pass |
+| About Link | When clicked, scrolls to the About section without page refresh | Clicked About Link | Smoothly scrolled to the About section | Pass |
+| Recommended Link | When clicked, scrolls to the Recommended Books section without page refresh | Clicked Recommended Link | Smoothly scrolled to the Recommended Books section | Pass |
+| Upcoming Events Link | When clicked, scrolls to the Upcoming Events section without page refresh | Clicked Upcoming Events Link | Smoothly scrolled to the Upcoming Events section | Pass |
+| Sign Up Link | When clicked, scrolls to the Sign Up section without page refresh | Clicked Sign Up Link | Smoothly scrolled to the Sign Up section | Pass |
+| **Sign Up Form** |
+| Newsletter Sign-Up | When submitted with valid data, form data should be sent to server | Submitted form with test data | Form data sent to server, confirmation message received | Pass |
+| Validation for Full Name | Form should not submit if the full name field is empty | Tried to submit with empty name | Form submission prevented, error message shown | Pass |
+| Validation for Email Address | Form should not submit if the email field is empty or format is invalid | Tried to submit with invalid email | Form submission prevented, error message shown | Pass |
+| **Social Links** |
+| Facebook Link | When clicked, should open Facebook page in a new tab | Clicked Facebook icon | Facebook page opened in a new tab | Pass |
+| Instagram Link | When clicked, should open Instagram page in a new tab | Clicked Instagram icon | Instagram page opened in a new tab | Pass |
+| Twitter Link | When clicked, should open Twitter page in a new tab | Clicked Twitter icon | Twitter page opened in a new tab | Pass |
+|YouTube Link | When clicked, should open YouTube channel in a new tab | Clicked YouTube icon |YouTube channel opened in a new tab | Pass |
+| **Responsive Design** |
+| Mobile Viewport | Site should be fully usable and legible on mobile devices | Resized browser window to mobile | Site adjusted properly for mobile view, all texts and elements are legible and accessible | Pass |
+| Tablet Viewport | Site layout should adjust to fit tablet screens without horizontal scrolling | Resized browser to tablet size | Layout adjusted properly, no horizontal scrolling required | Pass |
+| Desktop Viewport | Site should fully utilize desktop space, enhancing readability and functionality | Viewed on a desktop monitor | Site utilized desktop space effectively, enhancing user experience | Pass |
+
+
 
 ## Deployment
 
@@ -90,6 +113,20 @@ The website was deployed using GitHub Pages by following these steps:
 6. **Live Link:** The live link to the deployed website will be generated automatically: "Your site is published at https://rachelz85.github.io/galactic-readers/"
 
 
+### How to Clone
+
+1. Log into your account on GitHub.
+2. Navigate to the repository of the Galactic Readers project at https://github.com/Rachelz85/galactic-readers.
+3. Click on the Code button, and copy your preferred clone link (HTTPS or SSH).
+4. Open the terminal in your code editor and change the current working directory to the location where you want the cloned directory to be placed.
+5. Type git clone, then paste the link you copied, and press Enter.
+
+
+### How to Fork 
+
+1. Log in (or sign up) to GitHub.
+2. Navigate to Galactic Readers project repository at https://github.com/Rachelz85/galactic-readers.
+3. Click the Fork button in the top right corner of the page.
 
 ## Credits and Resources
 
