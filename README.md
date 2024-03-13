@@ -49,6 +49,21 @@ The Sign Up form allows users to subscribe to the Galactic Readers Book Club's n
 ![Form Screenshot](documents/form.png)
 
 
+## Technologies 
+
+- **HTML 5** - Served as the backbone of the project, structuring the website content. Employed semantic HTML to enhance accessibility and SEO.
+- **CSS** - Used for styling the website, implementing a mobile-first design approach. CSS variables were used for theme consistency, and flexbox and grid were utilized to achieve responsive layouts.
+- **Responsive Design** - Ensured the website is accessible and provides an optimal viewing experience across a wide range of devices (from desktop monitors to mobile phones) using media queries in CSS.
+- **GitHub** - Used for version control, site storage, and for deploying the project, deployment of the live website, allowing for easy access and public visibility.
+- **Gitpod** - The primary Integrated Development Environment (IDE) used for writing, editing, committing, and pushing changes to the GitHub repository. 
+- **Google Fonts** - Integrated custom fonts to enhance the website's typography.
+- **Font Awesome** - Incorporated icons to improve UI design and user navigation on the website.
+- **W3C Markup Validation Service** - Ensured the HTML code adheres to the web standards by identifying and rectifying potential issues.
+- **W3C CSS Validation Service** - Validated the CSS files to ensure they are free of errors and comply with CSS standards.
+
+
+
+
 ## Testing
 
 ### Validator Testing
